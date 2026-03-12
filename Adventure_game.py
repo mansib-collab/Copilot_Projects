@@ -161,5 +161,5 @@ def cave_exploration():
         enter_cave()
 
 # Start the game by calling the start_game() function.
-start_game()
+#start_game()
 
